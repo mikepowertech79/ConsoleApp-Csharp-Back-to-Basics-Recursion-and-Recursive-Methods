@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp_Csharp_Back_to_Basics___Recursion_and_Recursive_Methods
 {
 
-    //Source https://code-maze.com/csharp-basics-recursion/
+    //Source https://code-maze.com/csharp-basics-recursion/  ok
     class Program
     {
         public static int CalculateSumRecursively(int n, int m)
